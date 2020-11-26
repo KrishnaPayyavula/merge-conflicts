@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# Jasmin Infotech
+- project: Jasmin ATS Project Management
+  role: Backend Developer and Database Architect
+  duration: 2017 &mdash; Present
+  url: "https://www.jasminats.com"
+  description: A Cloud based for project management tool designed for Automation and Manual Testing Projects.
 
 # GitHub Classroom
-- project: GitHub Classroom
+- project: GitHub
   role: Contributor
-  duration: 2015 &mdash; Present
+  duration: 2015 &mdash; 2017
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
